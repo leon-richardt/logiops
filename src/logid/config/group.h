@@ -18,6 +18,7 @@
 #ifndef LOGID_CONFIG_GROUP_H
 #define LOGID_CONFIG_GROUP_H
 
+#include <algorithm>
 #include <libconfig.h++>
 #include <type_traits>
 #include <functional>
